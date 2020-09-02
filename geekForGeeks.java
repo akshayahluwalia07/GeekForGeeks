@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 class Arrays{
 	// 1. Given an array A[] and a number x, check for pair in A[] with sum as x
+	//1. Run a loop for pair matching
 	
 	public static void sumcheck(int[] array, int x)
 	{
